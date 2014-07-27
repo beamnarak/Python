@@ -1,5 +1,4 @@
 def golf(number):
-    print("## " +str(number))
     i = number + 1
     result = i
     while True:
